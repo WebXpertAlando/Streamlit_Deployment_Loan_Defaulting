@@ -1,0 +1,38 @@
+{
+    "Education": {
+        "0": "Bachelor's",
+        "1": "Master's",
+        "2": "High School",
+        "3": "PhD"
+    },
+    "EmploymentType": {
+        "0": "Full-time",
+        "1": "Unemployed",
+        "2": "Self-employed",
+        "3": "Part-time"
+    },
+    "MaritalStatus": {
+        "0": "Divorced",
+        "1": "Married",
+        "2": "Single"
+    },
+    "HasMortgage": {
+        "0": "Yes",
+        "1": "No"
+    },
+    "HasDependents": {
+        "0": "Yes",
+        "1": "No"
+    },
+    "LoanPurpose": {
+        "0": "Other",
+        "1": "Auto",
+        "2": "Business",
+        "3": "Home",
+        "4": "Education"
+    },
+    "HasCoSigner": {
+        "0": "Yes",
+        "1": "No"
+    }
+}
